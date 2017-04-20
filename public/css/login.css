@@ -1,0 +1,37 @@
+body{
+    background: #eee;
+}
+.main{
+    position: fixed;
+    width:230px;
+    height:117px;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+    border:1px solid #eee;
+    margin:auto;
+    padding:120px 10px 0 10px;
+    background: transparent;
+}
+input{
+    border:0;
+    background: transparent;
+    border-bottom: 3px solid #350303;
+    outline:none;
+    padding:5px;
+    width:220px;
+}
+.title{
+    position: fixed;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+    width:142px;
+
+    height:100px;
+    margin:auto;
+    font-size: 1.5rem;
+   padding-top: -10px;
+}
